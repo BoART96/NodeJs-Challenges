@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form</title>
+</head>
+<body>
+    <header>Travel Authorisation Form</header>
+        <h1>Section A: Client Information</h1>
+        
+    <form action="process_get" method="GET">
+         Title:          <input type="text" name="title"> <br>
+        First Name:     <input type="text" name="first_name"> <br>
+         Middle Name:    <input type="text" name="middle_name"> <br>
+        Surname:        <input type="text" name="last_name"> <br>
+         E-mail:         <input type="email" name="email"> <br>
+        Contact Number: <input type="text" name="number"> <br>
+        <h1>Section B: Travel Information</h1>
+        <hr>
+        Airline: <select name="airline">
+            <option value="saa">SAA</option>
+            <option value="kulula">Kulula</option>
+            <option value="mango">Mango</option>
+            <option value="etihad">Etihad Airline</option>
+            <option value="emirates">Emirates Airlines</option>
+    </select><br>
+        Destination: <input type="text" name="destination"><br>
+        Departure:   <input type="date" name="departure"><br>
+        Return:      <input type="date" name="return"><br>
+        Estimated Cost: <input type="text" name="cost"><br>
+
+        Includes customer visit: <input type="checkbox" name="visit"><br>
+        <hr>
+        Payment Method Used: <br>
+        <input type="radio" name="cash" value="cash">Cash<br>
+        <input type="radio" name="creditCard" value="credit card">Credit Card<br>
+        <input type="radio" name="cheque" value="cheque">Cheque<br>
+        <br>
+        <br> 
+        Purpose of Visit: <input type="text" name="purpose"><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

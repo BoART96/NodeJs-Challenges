@@ -1,0 +1,22 @@
+{
+  "name": "task-1---http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoART96/Task-1---Http-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoART96/Task-1---Http-Server/issues"
+  },
+  "homepage": "https://github.com/BoART96/Task-1---Http-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
