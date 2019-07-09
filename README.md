@@ -1,6 +1,6 @@
-# H1 nodeJs-Challenges
+#  nodeJs-Challenges
 
-Task 1 : Http server (http, get, serve static files)
+#### Task 1 : Http server (http, get, serve static files)
 
        a. git clone https://github.com/BoART96/NodeJs-Challenges
        b. `cd ` into the project folder
@@ -11,7 +11,7 @@ Task 1 : Http server (http, get, serve static files)
        
        
        
-Task 2: Request handling (basic routing, post, form, middleware)
+#### Task 2: Request handling (basic routing, post, form, middleware)
 
        a. `git clone https://github.com/BoART96/NodeJs-Challenges
        b. `cd `into the project folder
@@ -22,7 +22,7 @@ Task 2: Request handling (basic routing, post, form, middleware)
        
        
        
-Task 3: HTML template engine  (Javascript templates, fetch, api)
+#### Task 3: HTML template engine  (Javascript templates, fetch, api)
 
        a. `git clone https://github.com/BoART96/NodeJs-Challenges`
        b. `cd `into the project folder
@@ -34,7 +34,7 @@ Task 3: HTML template engine  (Javascript templates, fetch, api)
  
  
  
- Task 4: A registration restful API ( API end-point, routing, MongoDB, database schema)
+ #### Task 4: A registration restful API ( API end-point, routing, MongoDB, database schema)
  
        a. `git clone https://github.com/BoART96/NodeJs-Challenges`
        b. `cd `into the project folder
