@@ -13,10 +13,10 @@
        
 #### Task 2: Request handling (basic routing, post, form, middleware)
 
-       a. `git clone https://github.com/BoART96/NodeJs-Challenges
+       a. git clone https://github.com/BoART96/NodeJs-Challenges
        b. `cd `into the project folder
-       c. install dependencies `npm install`
-       d. run: `node app.js` 
+       c. install dependencies 'npm install'
+       d. run: 'node app.js'
        port = 8000
        
        
@@ -24,7 +24,7 @@
        
 #### Task 3: HTML template engine  (Javascript templates, fetch, api)
 
-       a. `git clone https://github.com/BoART96/NodeJs-Challenges`
+       a. git clone https://github.com/BoART96/NodeJs-Challenges
        b. `cd `into the project folder
        c. install dependencies `npm install`
        d. run: `node app.js` 
@@ -36,8 +36,8 @@
  
  #### Task 4: A registration restful API ( API end-point, routing, MongoDB, database schema)
  
-       a. `git clone https://github.com/BoART96/NodeJs-Challenges`
+       a. git clone https://github.com/BoART96/NodeJs-Challenges
        b. `cd `into the project folder
-       c. install dependencies `npm install`
+       c. install dependencies 'npm install'
        d. run: `node App.js || nodemon` 
        port = 3000
